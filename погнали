@@ -1,0 +1,7 @@
+echo "# TonIL22" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin git@github.com: TonIL22 / TonIL22.git
+ git push -u origin главный
